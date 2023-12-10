@@ -1,0 +1,6 @@
+C:\Users\Progr\source\repos\DVLD-DataLayer\bin\Debug\DVLD-DataLayer.dll
+C:\Users\Progr\source\repos\DVLD-DataLayer\bin\Debug\DVLD-DataLayer.pdb
+C:\Users\Progr\source\repos\DVLD-DataLayer\obj\Debug\DVLD-DataLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\DVLD-DataLayer\obj\Debug\DVLD-DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\DVLD-DataLayer\obj\Debug\DVLD-DataLayer.dll
+C:\Users\Progr\source\repos\DVLD-DataLayer\obj\Debug\DVLD-DataLayer.pdb
